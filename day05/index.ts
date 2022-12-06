@@ -1,7 +1,6 @@
 import {parseInt} from "lodash";
 
 function run1(input: Array<string>) {
-    //console.log(input)
 
     let currentLineIndex = 0;
     let highestValue = 0;
@@ -36,7 +35,6 @@ function run1(input: Array<string>) {
             }
         }
     }
-    //organisedCrates[2][4]='Q'
 
     while (true) {
         const currentLine = input[currentLineIndex]
@@ -97,7 +95,6 @@ function run2(input: Array<string>) {
             }
         }
     }
-    //organisedCrates[2][4]='Q'
 
     while (true) {
         const currentLine = input[currentLineIndex]
