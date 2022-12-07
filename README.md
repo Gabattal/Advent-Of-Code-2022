@@ -1,4 +1,4 @@
-Solutions for [Advent of Code](https://adventofcode.com/) in Typescript
+Solutions for [Advent of Code 2022](https://adventofcode.com/) in Typescript
 
 <!--- advent_readme_stars table --->
 ## 2022 Results
